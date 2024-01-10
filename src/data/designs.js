@@ -17,7 +17,7 @@ const projects = [
     description:
       "This was a  project for my HCI course during college. It was a great opportunity that taught me design process management, wireframing, prototyping, user flows, sitemaps, cooperation, and leadership.",
     cover: cover2,
-    url: "https://www.figma.com/file/ZTuuyY3ElS4JazvBSi9kj2/HCI-Project?type=design&node-id=0%3A1&mode=design&t=FAjldT1JmGuCscWf-1",
+    url: "https://www.figma.com/file/l9zS3Ypv6GpdlHJ743wzv7/UI%2FUX-Course-Project?type=design&node-id=2%3A8363&mode=design&t=wBQCImwTo1AvNCZx-1",
   },
   {
     id: "3",
@@ -25,7 +25,7 @@ const projects = [
     description:
       "This project was a self-study on user-centered design with the goal of better understanding UX research while also improving UI design skills. ",
     cover: cover3,
-    url: "https://www.figma.com/file/l9zS3Ypv6GpdlHJ743wzv7/UI%2FUX-Course-Project?type=design&node-id=2%3A8363&mode=design&t=wBQCImwTo1AvNCZx-1",
+    url: "https://www.figma.com/file/ZTuuyY3ElS4JazvBSi9kj2/HCI-Project?type=design&node-id=0%3A1&mode=design&t=DRVuTVBUJNorGMqX-1",
   },
 ];
 
