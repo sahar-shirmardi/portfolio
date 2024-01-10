@@ -21,9 +21,9 @@ const projects = [
   },
   {
     id: "3",
-    title: "UX Research Methods Practice",
+    title: "Student Mental Health and Academic Progress Tracking System",
     description:
-      "This project was a self-study on user-centered design with the goal of better understanding UX research while also improving UI design skills. ",
+      "This was a  project for my HCI course during college. It was a great opportunity that taught me design process management, wireframing, prototyping, user flows, sitemaps, cooperation, and leadership. ",
     cover: cover3,
     url: "https://www.figma.com/file/ZTuuyY3ElS4JazvBSi9kj2/HCI-Project?type=design&node-id=0%3A1&mode=design&t=DRVuTVBUJNorGMqX-1",
   },
