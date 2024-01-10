@@ -25,7 +25,7 @@ const projects = [
     description:
       "This project was a self-study on user-centered design with the goal of better understanding UX research while also improving UI design skills. ",
     cover: cover3,
-    url: "https://www.figma.com/file/lli2s3aNd5ywQ0Nl0Jw50K/UX-Practice?type=design&node-id=1%3A66&mode=design&t=O3pEzU6XdjEHGooL-1",
+    url: "https://www.figma.com/file/l9zS3Ypv6GpdlHJ743wzv7/UI%2FUX-Course-Project?type=design&node-id=2%3A8363&mode=design&t=wBQCImwTo1AvNCZx-1",
   },
 ];
 
