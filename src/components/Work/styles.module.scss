@@ -1,0 +1,60 @@
+@import "/src/theme.scss";
+
+.container {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
+  height: fit-content;
+  overflow: auto;
+
+  & > div {
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+
+    @media (max-width: 768px) {
+      width: 50%;
+    }
+
+    @media (max-width: 576px) {
+      width: 100%;
+    }
+  }
+}
+
+.card {
+  background-color: $color-background;
+  border-radius: 1rem;
+  box-shadow: $shadow;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  max-width: 20rem;
+  transition: 0.4s;
+
+  &.link {
+    cursor: pointer;
+
+    &:hover {
+      transform: translateY(-0.5rem);
+    }
+  }
+
+  & img {
+    object-fit: contain;
+    width: 100%;
+    border-radius: 1rem;
+  }
+
+  & h4 {
+    color: #fff;
+    margin: 1rem 0 0;
+  }
+
+  & h6 {
+    color: #fff;
+    margin: 1rem 0 0;
+  }
+}
