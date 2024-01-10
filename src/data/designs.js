@@ -5,7 +5,7 @@ import cover3 from "/src/assets/images/projects/s3-cover.jpg";
 const projects = [
   {
     id: "1",
-    title: "UX Research Methods Practice - a self study on user-centered design",
+    title: "UX Research Methods Practice",
     description:
       "This project was a self-study on user-centered design with the goal of better understanding UX research while also improving UI design skills. ",
     cover: cover1,
